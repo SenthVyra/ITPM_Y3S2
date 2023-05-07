@@ -1,0 +1,13 @@
+@media print {
+    .no-print {
+      display: none;
+    }
+    table {
+      border-collapse: collapse;
+      margin: 0;
+    }
+    td, th {
+      border: 1px solid #000;
+      padding: 0.5em;
+    }
+  }
