@@ -84,7 +84,7 @@ function Edit() {
             <Form.Control type="text" placeholder="Enter Campaign team Name" value={cteam} onChange={(e)=>setCampaignTeam(e.target.value)} required/>
         </Form.Group>
         <Form.Group className="mb-2">
-            <Form.Label>Quantity</Form.Label>
+            <Form.Label>Quantity (in Kg)</Form.Label>
             <Form.Control type="number" placeholder="Enter Quantity" value={quantity} onChange={(e)=>setQuantity(e.target.value)} required/>
         </Form.Group>
         <Form.Group className="mb-2">

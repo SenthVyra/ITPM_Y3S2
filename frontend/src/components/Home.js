@@ -74,7 +74,7 @@ function Home() {
           <th>Campaign id</th>
           <th>Garbage Name</th>
           <th>Campaign Team</th>
-          <th>Quantity</th>
+          <th>Quantity (Kg)</th>
           <th>Active Status</th>
           <th>Action</th>
         </tr>
