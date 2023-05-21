@@ -33,7 +33,7 @@ const addGarbages=(id,garbage,cteam,quantity,status)=>{
                 newGarbage.save()
                 return{
                     statusCode:200,
-                    message:'Campaign sucessfully added'
+                    message:'Campaign successfully added'
                 }
             }
         }
