@@ -53,7 +53,7 @@ const editGarbages=(id,garbage,cteam,quantity,status)=>{
                 return{
 
                     statusCode:200,
-                    message:'Campaign details edited sucessfullt'
+                    message:'Campaign details edited successfully'
                 }
             }
         }
